@@ -5,15 +5,14 @@ redirect_from:
 - /PW42_2025_GranCanaria/Readme.html
 
 project_categories:
-- IGT and Training
 - DICOM
+- Infrastructure
+- IGT and Training
 - VR/AR and Rendering
 - Segmentation / Classification / Landmarking
-- Quantification and Computation
 - Registration
 - Cloud / Web
-- Infrastructure
-- Other
+- Quantification and Computation
 ---
 
 # Welcome to the web page for the 42nd Project Week!
@@ -46,10 +45,12 @@ We hold weekly preparation meetings at 10AM EST (4PM CET) on Tuesdays on Zoom, s
 - The city has good bus/taxi service and is also walkable.
 
 ## Registration
-
+<!--
 - All participants have to register using the [**form**](https://forms.gle/arhUT62h61XvvLKv6).
-- Remote participation will not be possible at this project week
 - Registration costs 475€ (increases to 500€ after December 24), and includes coffee breaks, snacks, and lunch at the hotel for the entire week
+-->
+- **Registration is now closed**
+- Remote participation will not be possible at this project week
  
 **Important: The deadline for registration and payment of the fee is Jan 22nd** (extended one week). If you have problems with the payment or registration, contact [namic@ebatinca.com](mailto:namic@ebatinca.com).
 
@@ -136,6 +137,14 @@ List of registered participants so far (names will be added here after processin
 1. Adriana H. Vilchis González, Universidad Autnoma del Estado de México, Mexico
 1. Joël Spaltenstein, Agora Care SA, Switzerland
 1. Attila Nagy, University of Szeged, Hungary
+1. Robin Peretzke, German Cancer Research Center, Germany
+1. Klaus Maier-Hein, German Cancer Research Center, Germany
+1. Sara Fernandez Vidal, Paris Brain Institute, France
+1. Cristina Soriano, Digital Anatomics SL, Spain
+1. Maria Ordieres, Digital Anatomics SL, Spain
+1. Hans Knutsson, Linkoping University, Sweden
+1. Meritxell Gomez Martinez, Fundacio Eurecat, Spain
+1. Daniela Schacherer, Fraunhofer Mevis, Germany
 
 <!-- Participants list end -->
 

@@ -14,7 +14,11 @@ key_investigators:
 
 - name: Andrey Fedorov
   affiliation: Brigham and Women's Hospital/Harvard Medical School
-  country: USA
+  country: USA 
+
+- name: Joost van Griethuysen
+  affiliation: The Netherlands Cancer Institute
+  country: The Netherlands
 
 ---
 
@@ -84,8 +88,11 @@ In this project week, we will focus on creating a 3DSlicer module.
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
+[Current GitHub repo](https://github.com/deepakri201/SlicerMRClass/)
 
 [PW 41 work](https://projectweek.na-mic.org/PW41_2024_MIT/Projects/AutomaticClassificationOfMrScanSequenceType/) 
 
 [PW 40 work](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/DicomSeriesClassificationAndVisualizationOfParameters/)
 
+# Related work
+    - [dcm-classifier](https://github.com/BRAINSia/dcm-classifier)

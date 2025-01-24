@@ -50,7 +50,7 @@ In addition, this dataset contains extensive deep-learning generated nuclei anno
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 **Objective A**
-1. Implement and verify code for conversion of the .mrxs files as is into .dcm. 
+1. Implement and verify code for conversion of the .mrxs files as is into .dcm. See also this issue: https://github.com/imi-bigpicture/wsidicomizer/issues/56
 2. Add code for ingestion of metadata that are not obtained from the .mrxs files / correct potential falsely estimated metadata.
 3. Have a few successfully converted samples and be ready to run code on complete collection. 
 
@@ -92,6 +92,7 @@ Background reading:
 Further resources:
 - [IDC Portal](https://portal.imaging.datacommons.cancer.gov/)
 - Conversion tool: [wsidicomizer](https://github.com/imi-bigpicture/wsidicomizer)
+- Useful tools for inspection/verification of DICOM files: [dcmtk](https://dicom.offis.de/en/dcmtk/dcmtk-tools/), [dicom3tools](https://www.dclunie.com/dicom3tools.html)
 - Related project from this project week: [Evaluation of imi-bigpicture/wsidicomizer as a tool for conversion into DICOM whole slide imaging format](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/EvaluationOfImiBigpictureWsidicomizerAsAToolForConversionIntoDicomWholeSlideImagingFormat/)
 - Related earlier project from PW40: [WSI-DICOM Improvement - From Viewer to Analysis](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/WsiDicomImprovementFromViewerToAnalysis/)
 
