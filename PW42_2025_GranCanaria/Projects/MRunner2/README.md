@@ -3,7 +3,7 @@ layout: pw42-project
 
 permalink: /:path/
 
-project_title: MRunner2 - MHub.ai for 3D Slicer
+project_title: MHubRunner2 - MHub.ai for 3D Slicer
 category: Infrastructure
 
 key_investigators:
@@ -58,6 +58,7 @@ Ideas to be discussed:
 - [ ] Modularize extension such that it can be extended with specific configuration
 - [ ] Support for non-segmentation models (using the 3D Slicer table view or DICOM SR)
 - [ ] Open Slicer and a specific model in MRunner2 from a link via the mhub.ai website (possible?)
+- [ ] Download and open model sample data within 3D Slicer
 
 # Illustrations
 
@@ -69,6 +70,8 @@ Updated UI and Model Search.
 
 
 # Background and References
+
+- [Extension Repository (WIP)](https://github.com/LennyN95/SlicerMHubRunner2)
 
 - The [MHub.ai model repository](https://mhub.ai/models)
 - The MHub.ai [Documentation](https://github.com/MHubAI/documentation)
